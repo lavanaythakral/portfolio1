@@ -26,4 +26,5 @@ Here are my two cents:
 * Facts are available through official sources, but it is exceedingly difficult to navigate through these documents. 
 * Even with the facts laid down, lack of prior knowledge in ordinary citizens leads to inaccurate understanding of the policy and its effects. 
 
-It would be useful to build AI systems to extract, simplify, and present accurate data and related prior work to users and help them make informed decisions. Please do reach me if you have any thoughts on this!
+Resources like [PRS Legislative](https://www.prsindia.org/) are doing a great job at this. I'd like to explore more on how AI can help in Policy and spreading accurate information.
+Please do reach me if you have any thoughts on this!
